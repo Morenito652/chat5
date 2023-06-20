@@ -1,0 +1,99 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215540365522@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0043E4D6CB1A413D530',
+    participant: undefined
+  },
+  messageTimestamp: 1687278620,
+  pushName: 'Karen Lopez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '5215540365522'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215591428958@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0568EDA7FD1ACD98A82',
+    participant: undefined
+  },
+  messageTimestamp: 1687278863,
+  pushName: 'Manu',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5215591428958'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215591428958@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0568EDA7FD1ACD98A82',
+    participant: undefined
+  },
+  messageTimestamp: 1687278864,
+  pushName: 'Manu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215591428958'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215591428958@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08CDB6B07B6C2B8F6C3',
+    participant: undefined
+  },
+  messageTimestamp: 1687278880,
+  pushName: 'Manu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215591428958'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215591428958@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0CB407E111404B5A24D',
+    participant: undefined
+  },
+  messageTimestamp: 1687278896,
+  pushName: 'Manu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5215591428958'
+}
